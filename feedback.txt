@@ -1,0 +1,3 @@
+It was interesting to get hands on with a secret sharing protocol and better understand how they operate.  There is nothing like learning by doing!
+Some more guidance on what was expected in the report would have been nice (it's tough to know how much effort to put in or what you are looking for from a grading perspective.)
+Getting the multiplication gate working took the most time: it is tricky to understand exactly why it works.
